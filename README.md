@@ -2,6 +2,7 @@
 
 My name is Maxwell. I'm currently a software engineer at [Standard Metrics](https://standardmetrics.io/) where I focus on fullstack development for our Venture product. I graduated in 2022 from UNC Chapel Hill where I majored in Computer Science and minored in Statistics and Analytics.
 
+
 <details>
   <summary>GitHub Statistics</summary>
   
@@ -9,6 +10,7 @@ My name is Maxwell. I'm currently a software engineer at [Standard Metrics](http
   
 </details>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:maxmuoto@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxmuoto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/max_muoto)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=flat-square)](mailto:maxmuoto@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/maxmuoto/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/max_muoto)
