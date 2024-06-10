@@ -1,6 +1,6 @@
 ### About me
 
-My name is Max. I'm currently a software engineer at [Standard Metrics](https://standardmetrics.io/) where I focus on fullstack development for our Venture product. I graduated in 2022 from UNC Chapel Hill where I majored in Computer Science and minored in Statistics and Analytics.
+My name is Max. I'm currently a software engineer at [Standard Metrics](https://standardmetrics.io/) where I focus on backend development and infastructure. 
 
 
 <details>
