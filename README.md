@@ -11,8 +11,3 @@ My name is Max. I'm currently a software engineer at [Standard Metrics](https://
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max-muoto&layout=compact&show_icons=true&hide_border=true&bg_color=151515&icon_color=ebcb8b&title_color=489CD5&text_color=a0c5e7&hide=jupyter%20notebook,TeX,css,scss,html)
   
 </details>
-
-
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=flat-square)](mailto:maxmuoto@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/maxmuoto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/max_muoto)
